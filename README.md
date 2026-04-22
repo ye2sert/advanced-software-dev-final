@@ -22,12 +22,6 @@ PAMS_Portfolio/
 |   |-- pams.db          <-- auto-created on first launch
 |-- tests/
 |   |-- test_pams.py     <-- 40 automated tests
-|   |-- screenshots/     <-- test-run evidence PNGs
-|-- diagrams/            <-- Use Case, Class, 5 x Sequence PNGs
-|-- docs/
-|   |-- Element1_Design.pdf
-|   |-- Element2_Methodology.pdf
-|   |-- Element3_Testing.pdf
 ```
 
 ---
